@@ -1,0 +1,34 @@
+{
+    "appearance": {
+        "font": {
+            "scale": 1.5
+        },
+        "padding": {
+            "scale": 1.5
+        },
+        "rounding": {
+            "scale": 1.5
+        },
+        "spacing": {
+            "scale": 1.5
+        },
+        "transparency": {
+            "enabled": true
+        }
+    },
+    "background": {
+        "wallpaperEnabled": true
+    },
+    "general": {
+        "apps": {
+            "terminal": [
+                "kitty"
+            ]
+        }
+    },
+    "services": {
+        "clockFormat": "TwentyFourHour",
+        "defaultPlayer": "Brave",
+        "weatherUnits": "Celsius"
+    }
+}

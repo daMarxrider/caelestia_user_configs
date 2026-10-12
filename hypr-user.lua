@@ -17,3 +17,12 @@ hl.config({
     numlock_by_default = true,
   },
 })
+
+
+
+hl.monitor({
+  output = "eDP-2",
+  mode = "1920x1200@120",
+  position = "0x0",
+  scale = 1,
+})

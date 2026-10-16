@@ -1,16 +1,16 @@
 {
     "appearance": {
         "font": {
-            "scale": 1.5
+            "scale": 1
         },
         "padding": {
-            "scale": 1.5
+            "scale": 1
         },
         "rounding": {
-            "scale": 1.5
+            "scale": 1
         },
         "spacing": {
-            "scale": 1.5
+            "scale": 1
         },
         "transparency": {
             "enabled": true
@@ -19,11 +19,20 @@
     "background": {
         "wallpaperEnabled": true
     },
+    "dashboard": {
+        "showClockSeconds": false
+    },
     "general": {
         "apps": {
             "terminal": [
                 "kitty"
             ]
+        }
+    },
+    "launcher": {
+        "showOnHover": false,
+        "useFuzzy": {
+            "apps": false
         }
     },
     "services": {
